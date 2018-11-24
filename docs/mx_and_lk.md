@@ -15,7 +15,7 @@ the layers above are new. For example, Magenta has the concept of a process but 
 does not. However, a Magenta process is made of by LK-level constructs such as
 threads and memory.
 
-More specifically, some the visible differences are:
+More specifically, some of the visible differences are:
 
 + Magenta has first class user-mode support. LK does not.
 + Magenta is an object-handle system. LK does not have either concept.
